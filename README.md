@@ -1,5 +1,5 @@
 # Ignis Tech Solution
-
+This is a project to scrape Data from a website and get the required information which will be then converted into a JSON output. The project was based on a website that sold shoes and used BeautifulSoup for Webscapping. 
 ## Caveats
 > It should be a single main.py file and output json file all pushed on a private github repo. Add ignis-tech-solutions as a collaborator to your repository.
 
